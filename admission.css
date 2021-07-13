@@ -1,0 +1,110 @@
+*{
+	
+	box-sizing:border-box;
+}
+
+.logo1{
+	
+	text-align:center;
+	
+	
+	
+	
+}
+.name{
+	
+	
+	/*text-decoration:underline;*/
+	text-align:center;
+	padding-top:40px;
+	color:red;
+	font-size:30px;
+}
+.photo{
+	
+	border-style:solid;
+	height:180px;
+	width:50px;
+	text-align:center;
+	padding-top:70px;
+}
+.datebox{
+	
+	
+	
+}
+p{
+text-decoration:none;
+	color:black;
+	font-size:15px;
+	border-style:solid;
+	width:300px;
+	margin-left:120px;
+	
+	
+}
+.check{
+	color:#1F7AAE ;
+}
+hr{
+	width:500px;
+	float:left;
+	border-style:solid;
+	
+}
+.personal{
+	background-color:#A9A69B;
+	color:#1F7AAE;
+	font-size:15px;
+	
+}
+.name1{
+	margin-top:30px;
+	
+	size:50px;
+	
+	
+	
+}
+/*.marital{
+	float:right;
+}*/
+.email{
+	
+	/*border-style:solid;*/
+}
+.address{
+	color:#1F7AAE;
+	background-color:#A9A69B;
+}
+.education{
+	color:#1F7AAE;
+	background-color:#A9A69B;
+}
+.technology{
+	font-size:12px;
+}
+.terms{
+	background-color:#A9A69B;
+	color:#1F7AAE;
+	font-size:15px;
+	
+	
+	
+}
+.terms1{
+	
+	text-align:justify;
+}
+.aggrement{
+	
+	background-color:#A9A69B;
+	color:#1F7AAE;
+	font-size:15px;
+}
+.box{
+	
+	border-style:solid;
+	height:100;
+	width:100;
+}
